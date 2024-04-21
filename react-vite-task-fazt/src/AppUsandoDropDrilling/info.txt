@@ -1,0 +1,3 @@
+Esta carpeta contiene la forma de hacer el contexto o enlazar todo usando el termino propfilling donde consiste en enviar props por cada hijo hasta llegar al ultimo y asi que lo puedan usar, como una funcion.
+
+App esta en src y las otras 3 en src
